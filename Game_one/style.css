@@ -3,7 +3,7 @@ html, body {
 	margin: 0;
 	overflow: hidden;
 	
-	background: #000000;
+	background: linear-gradient(90deg, rgba(240,240,240,1) 0%, rgba(255,255,255,1) 27%, rgba(0,212,255,1) 85%);
 	color: white;
 }
 
