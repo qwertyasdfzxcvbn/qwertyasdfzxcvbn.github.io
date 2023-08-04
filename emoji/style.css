@@ -68,11 +68,6 @@ html, body, canvas {
     height: 1px;
     overflow: hidden;
     clip: rect(1px, 1px, 1px, 1px);
-
-	opacity: 0;
-    background: none;
-    border: none;
-    color: transparent;
 }
 
 
