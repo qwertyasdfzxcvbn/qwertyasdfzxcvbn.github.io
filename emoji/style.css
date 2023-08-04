@@ -69,3 +69,10 @@ html, body, canvas {
     overflow: hidden;
     clip: rect(1px, 1px, 1px, 1px);
 }
+
+#старт {
+	opacity: 0;
+    background: none;
+    border: none;
+    color: transparent;
+}
