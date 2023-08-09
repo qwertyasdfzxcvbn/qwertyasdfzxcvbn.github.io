@@ -3,7 +3,7 @@ html, body {
 	margin: 0;
 	overflow: hidden;
 	
-	background-image: url('./images/bg_blur.jpg');
+	background-image: url('./images/bg_blur.jpg') !important;
 	color: white;
 }
 
