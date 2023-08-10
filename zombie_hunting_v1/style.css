@@ -69,3 +69,7 @@ html, body, canvas {
     overflow: hidden;
     clip: rect(1px, 1px, 1px, 1px);
 }
+
+@media screen and (max-width: 1024px) {
+	max-width: 768px;
+}
